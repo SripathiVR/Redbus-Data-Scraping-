@@ -1,8 +1,6 @@
 # Redbus-Data-Scraping-
 This project aims to automate the extraction and analysis of bus route data from the Redbus website. The focus is on gathering comprehensive details about both government and private bus services, including route information, bus types, pricing, star ratings, and seat availability. By utilizing web scraping techniques and developing an interactive application, this project provides valuable insights and an easy-to-use platform for users to explore and filter bus service data.
-Streamlit application link : 
-Local URL: http://localhost:8501
-Network URL: http://192.168.1.3:8501
+
 
 Key Features
 
